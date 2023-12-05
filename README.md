@@ -120,9 +120,10 @@ In Home view, all the views button will be available. User will land on specific
 - Stakeholder Request
 - Support
 
-## Overall Report
+## Home View
 
-![Overall Report.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Overall%20Report.gif)
+<img width="936" alt="Home_Page" src="https://github.com/hrutiksarode/Business_Insights_360/assets/83489079/4ab4ab5a-58ab-4c95-ad6a-b8c764d173cf">
+
 
 ## Finance View
 
