@@ -127,27 +127,37 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Finance View
 
-![Finace.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Finance%20view.gif)
+<img width="935" alt="Finance_View" src="https://github.com/hrutiksarode/Business_Insights_360/assets/83489079/a49e0616-4702-4532-b4ab-7db70e4ce560">
+
 
 ## Sales View
 
-![Sales.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Sales%20View.gif)
+<img width="935" alt="Sales_View" src="https://github.com/hrutiksarode/Business_Insights_360/assets/83489079/758693e7-b08b-4fcb-956f-5211bb729d8d">
+
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Marketing%20view.gif)
+<img width="935" alt="Marketing_View" src="https://github.com/hrutiksarode/Business_Insights_360/assets/83489079/32897ada-76ec-4da2-b704-8d683250a04a">
+
 
 ## Supply chain View
 
-![Supply chain View.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Supply%20chain%20View.gif)
+<img width="935" alt="Supply_Chain_View" src="https://github.com/hrutiksarode/Business_Insights_360/assets/83489079/e3363a99-a409-4ce0-ad02-eccef12c9b13">
+
 
 ## Executive View
 
-![Executive.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Executive%20view.gif)
+<img width="936" alt="Executive_View" src="https://github.com/hrutiksarode/Business_Insights_360/assets/83489079/e965a79c-7d73-4e59-89a0-736087f4b9e6">
 
-## Stakeholder Request
 
-![Stakeholder Request](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Stakeholder%20Request.gif)
+## Support View
+
+<img width="935" alt="Support_View" src="https://github.com/hrutiksarode/Business_Insights_360/assets/83489079/cb794dc8-5da9-45bc-89ce-a83547b7f682">
+
+
+## Info view
+
+<img width="935" alt="Info_View" src="https://github.com/hrutiksarode/Business_Insights_360/assets/83489079/eb18d151-a993-4259-9876-0a98f7a25ca5">
 
 you can find the full report file here : [Report](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Business%20Insights%20360.pbix)
 
